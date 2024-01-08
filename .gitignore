@@ -1,0 +1,9 @@
+template.py
+*.txt
+*.sample
+*.in
+*.gephi
+*.csv
+*.exclude
+*.pyc
+*.json
